@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AdministratorDB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListDB>
+    <Administrator>
+      <Gender>72</Gender>
+      <LastName>Walker</LastName>
+      <FirstName>Johny</FirstName>
+      <Password>password</Password>
+      <Username>jwalker</Username>
+      <Id>1</Id>
+      <Department>Libros</Department>
+      <EmployeesNumber>4</EmployeesNumber>
+    </Administrator>
+    <Administrator>
+      <Gender>77</Gender>
+      <LastName>Alvitez</LastName>
+      <FirstName>Adriana</FirstName>
+      <Password>password</Password>
+      <Username>aalvitez</Username>
+      <Id>2</Id>
+      <Department>Electrónicos</Department>
+      <EmployeesNumber>3</EmployeesNumber>
+    </Administrator>
+    <Administrator>
+      <Gender>72</Gender>
+      <LastName>Rocca</LastName>
+      <FirstName>Edward</FirstName>
+      <Password>password</Password>
+      <Username>jrocca</Username>
+      <Id>3</Id>
+      <Department>Comestibles</Department>
+      <EmployeesNumber>6</EmployeesNumber>
+    </Administrator>
+  </ListDB>
+</AdministratorDB>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserDB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListDB>
+    <User>
+      <Gender>77</Gender>
+      <LastName>Baldeon</LastName>
+      <FirstName>Johan</FirstName>
+      <Password>password</Password>
+      <Username>jbaldeon</Username>
+      <Id>1</Id>
+    </User>
+    <User>
+      <Gender>77</Gender>
+      <LastName>Mío</LastName>
+      <FirstName>Sandro</FirstName>
+      <Password>123456</Password>
+      <Username>smio</Username>
+      <Id>2</Id>
+    </User>
+    <User>
+      <Gender>70</Gender>
+      <LastName>Tabraj</LastName>
+      <FirstName>Johana</FirstName>
+      <Password>123456</Password>
+      <Username>jtabraj</Username>
+      <Id>3</Id>
+    </User>
+    <User>
+      <Gender>77</Gender>
+      <LastName>Ueda</LastName>
+      <FirstName>Gonzalo</FirstName>
+      <Password>password</Password>
+      <Username>gueda</Username>
+      <Id>3</Id>
+    </User>	
+  </ListDB>
+</UserDB>
