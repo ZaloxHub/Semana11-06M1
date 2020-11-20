@@ -80,10 +80,10 @@ namespace SalesView {
 
 		}
 #pragma endregion
-	private: System::Void GraphicsForm_Load(System::Object^ sender, System::EventArgs^ e) {
-		pb_figure->Dock = DockStyle::Fill;
-		pb_figure->BackColor = Color::White;
-	}
+	//private: System::Void GraphicsForm_Load(System::Object^ sender, System::EventArgs^ e) {
+		//pb_figure->Dock = DockStyle::Fill;
+		//pb_figure->BackColor = Color::White;
+	//}
 
 	private: System::Void pb_figure_Paint(System::Object^ sender, 
 		System::Windows::Forms::PaintEventArgs^ e) {
