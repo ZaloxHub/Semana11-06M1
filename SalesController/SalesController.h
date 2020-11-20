@@ -5,7 +5,7 @@ using namespace System::Collections::Generic;
 using namespace SalesModel;
 
 namespace SalesController {
-
+	/*Por favor funciona :c*/
 	public ref class SalesManager {
 		public:
 			static User^ ValidateUser(String^ username, String^ password);
